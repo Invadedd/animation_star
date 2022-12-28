@@ -44,3 +44,4 @@ function animate() {
 
 // Memulai animasi
 animate();
+ 
